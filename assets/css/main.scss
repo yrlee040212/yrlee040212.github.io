@@ -49,3 +49,10 @@
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
+
+
+.sidebar.sticky {
+  position: static !important;
+  top: auto !important;
+  max-height: none !important;
+}
